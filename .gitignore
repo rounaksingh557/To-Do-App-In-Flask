@@ -3,6 +3,7 @@
 /Include
 /Scripts
 /.vscode
+/__pycache__
 
 #Files
 /pyvenv.cfg
